@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiAppAlumnos</string>
+    <string name="new_registered">Nuevo Inscripto</string>
+    <string name="information_institute">Información del Instituto</string>
+    <string name="career">Carreras</string>
+    <string name="contact_us">Contactate con nosotros</string>
+    <string name="ucu">UCU</string>
+    <string name="ies">IES</string>
+    <string name="name">Nombre</string>
+    <string name="lastName">Apellido</string>
+    <string name="dni">DNI</string>
+    <string name="email">Email</string>
+    <string name="send">Enviar</string>
+</resources>
